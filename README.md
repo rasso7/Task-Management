@@ -12,21 +12,20 @@ Follow these steps to install and run the project:
 1️⃣ Clone the Repository
 
 Download the project from GitHub by running:
- ```bash
+```bash
 git clone <repository_url>
- ```bash
 cd <project_directory>
 
 2️⃣ Install Dependencies
 
 Run the following command to install the required dependencies:
- ```bash
+```bash
 npm install
 
 3️⃣ Start the Application
 
 To launch the app, execute:
- ```bash
+```bash
 npm start
 
 4️⃣ Running the App
