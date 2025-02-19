@@ -1,41 +1,57 @@
 # preview 👋
 https://github.com/user-attachments/assets/90ef72ed-6a5d-4a02-a886-58a47048efc3
 
-## How to install and run the project
+Task Manager App
 
-1. download file from github or clone it
-   Download the project from GitHub by running:
+A simple and efficient task management application built using React Native (Expo) with Redux Toolkit for state management and React Navigation for seamless navigation.
 
+🚀 Installation & Setup
+
+Follow these steps to install and run the project:
+
+1️⃣ Clone the Repository
+
+Download the project from GitHub by running:
+ ```bash
 git clone <repository_url>
+ ```bash
 cd <project_directory>
 
-2. Install dependencies
+2️⃣ Install Dependencies
 
-run: npm install
+Run the following command to install the required dependencies:
+ ```bash
+npm install
 
-3. Start the app
+3️⃣ Start the Application
 
-run: npm start
+To launch the app, execute:
+ ```bash
+npm start
 
-4. Running the App
+4️⃣ Running the App
 
-Once the app starts, you will have the following options:
+Once the app starts, you can:
 
-Open the app in an Android or iOS simulator.
+Open the app in an Android/iOS simulator.
+
 Scan the QR code using the Expo Go app to run it on a physical device.
 
-## Project features
+✨ Features
 
-Users can add new task (title, description, priority).
-Users can view list of tasks.
-Users can edit a existing task.
-Users can delete a task.
-Users can mark task as completed.
-Users can Navigate from one page to other
+✅ Add New Tasks – Users can create tasks with a title, description, and priority.
+✅ View Task List – Easily browse all tasks in a structured layout.
+✅ Edit Tasks – Modify existing tasks as needed.
+✅ Delete Tasks – Remove unwanted tasks effortlessly.
+✅ Mark Tasks as Completed – Keep track of completed tasks.
+✅ Seamless Navigation – Navigate between different screens smoothly.
 
-## Project approach
+🛠️ Tech Stack
 
-React Native (Expo) : For cross-platform mobile development.
-Redux Toolkit : For efficient state management.
-React Navigation : For handling navigation between screens.
-TailwindCSS : For consistent and modern UI design.
+React Native (Expo) – Cross-platform mobile development.
+
+Redux Toolkit – Efficient state management.
+
+React Navigation – Smooth screen transitions.
+
+TailwindCSS – Modern and consistent UI styling.
